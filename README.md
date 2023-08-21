@@ -1,9 +1,11 @@
 ### Hi there! I'm Aayush 👋
 
-- 🔭 Experienced Software Engineer pursuing Master's in Information Systems from University of Maryland, College Park.
+- 🔭 Experienced Software Engineer pursuing Master's in Information Systems from University of Maryland, College Park
 
 - 💬 Ask me about: Python, Django, JavaScript, React, Node, System Design, Backend Development, Full Stack Applications
 
 - 🌱 Currently learning ML & MLOps
 
-- 📫 How to reach me: <a href="mailto:gadia.aayush@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/gadia-aayush/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+- 📫 Reach me at gadia.aayush@gmail.com
+
+- 📄 Here's my [resume](https://drive.google.com/file/d/1MyBNieM3urnT6H6w9POVr8ZAOKRwUXlI/view?usp=sharing) for more details about me.
